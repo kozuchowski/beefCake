@@ -1,0 +1,26 @@
+*{
+    height: 100%;
+}
+
+table {
+    margin: 10px 0 20px 0;
+    font-family: 'open sans';
+    font-weight: 200;
+    border-collapse: collapse;
+    border: 1px solid black;
+    padding: 5px;
+    span{
+        color: #fff700;
+    }
+    
+    td{
+        color: white;
+        list-style-type: none;
+        padding: 5px;
+    }
+    thead{
+        td{
+            color: #fff700;
+        }
+    }
+}
