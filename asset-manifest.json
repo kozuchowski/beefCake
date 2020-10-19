@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/beefCake/static/css/main.7d83c394.chunk.css",
-    "main.js": "/beefCake/static/js/main.5ef8fe86.chunk.js",
-    "main.js.map": "/beefCake/static/js/main.5ef8fe86.chunk.js.map",
+    "main.css": "/beefCake/static/css/main.7d6b7c67.chunk.css",
+    "main.js": "/beefCake/static/js/main.241785ee.chunk.js",
+    "main.js.map": "/beefCake/static/js/main.241785ee.chunk.js.map",
     "runtime-main.js": "/beefCake/static/js/runtime-main.96f47b97.js",
     "runtime-main.js.map": "/beefCake/static/js/runtime-main.96f47b97.js.map",
-    "static/js/2.f6114b5e.chunk.js": "/beefCake/static/js/2.f6114b5e.chunk.js",
-    "static/js/2.f6114b5e.chunk.js.map": "/beefCake/static/js/2.f6114b5e.chunk.js.map",
+    "static/js/2.aa108251.chunk.js": "/beefCake/static/js/2.aa108251.chunk.js",
+    "static/js/2.aa108251.chunk.js.map": "/beefCake/static/js/2.aa108251.chunk.js.map",
     "index.html": "/beefCake/index.html",
-    "precache-manifest.a93a76811f8ad9d6f1d0865853ff7068.js": "/beefCake/precache-manifest.a93a76811f8ad9d6f1d0865853ff7068.js",
+    "precache-manifest.70fa919f81b1b10011130d5a1ecde14e.js": "/beefCake/precache-manifest.70fa919f81b1b10011130d5a1ecde14e.js",
     "service-worker.js": "/beefCake/service-worker.js",
-    "static/css/main.7d83c394.chunk.css.map": "/beefCake/static/css/main.7d83c394.chunk.css.map",
-    "static/js/2.f6114b5e.chunk.js.LICENSE.txt": "/beefCake/static/js/2.f6114b5e.chunk.js.LICENSE.txt"
+    "static/css/main.7d6b7c67.chunk.css.map": "/beefCake/static/css/main.7d6b7c67.chunk.css.map",
+    "static/js/2.aa108251.chunk.js.LICENSE.txt": "/beefCake/static/js/2.aa108251.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.96f47b97.js",
-    "static/js/2.f6114b5e.chunk.js",
-    "static/css/main.7d83c394.chunk.css",
-    "static/js/main.5ef8fe86.chunk.js"
+    "static/js/2.aa108251.chunk.js",
+    "static/css/main.7d6b7c67.chunk.css",
+    "static/js/main.241785ee.chunk.js"
   ]
 }
