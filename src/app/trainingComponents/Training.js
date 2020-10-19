@@ -1,5 +1,4 @@
 import React from 'react';
-import styles from './Training.module.scss'
 
 const Training= ({squats,benchPress,rowing,deadLift,militaryPress}) => {
     

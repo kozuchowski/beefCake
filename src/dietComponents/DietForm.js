@@ -13,9 +13,9 @@ const DietForm = ({dietData,gender,type,lifestyle,body}) => {
             </div>
             <div className={styles.basic_data}>
                 <h3>Podaj dane</h3>
-                <input className={styleInput.input_styles} required type="number" min="1" placeholder="Wiek"/>
-                <input className={styleInput.input_styles} required type="number" min="1" placeholder="Masa ciała"/>
-                <input className={styleInput.input_styles} required type="number" min="1" placeholder="Wzrost(cm)"/>
+                <label><input className={styleInput.input_styles} required type="number" min="1" placeholder="Wiek"/></label>
+                <label><input className={styleInput.input_styles} required type="number" min="1" placeholder="Masa ciała"/></label>
+                <label><input className={styleInput.input_styles} required type="number" min="1" placeholder="Wzrost(cm)"/></label>
             </div>
             <div className={styles.lifestyle}>
                 <h3>Określenie trybu życia</h3>

@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import {
-  HashRouter,
+  BrowserRouter,
   Route,
 } from 'react-router-dom';
 import AddTraining from '../subpages/AddTrainig';
@@ -10,11 +10,11 @@ import Main from '../subpages/Main';
 
 function App() {
   return (
-    <HashRouter>
+    <BrowserRouter>
       <Route exact path='/' component={Main} />
       <Route path='/addtraining' component={AddTraining} />
       <Route path='/adddiet' component={AddDiet} />
-    </HashRouter>
+    </BrowserRouter>
   )
   
 }

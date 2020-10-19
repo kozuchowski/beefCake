@@ -12,7 +12,7 @@ const Main = () => {
     return (
         <div className={basicStyles.container}>
             <div className={styles.main_header}>
-            <img src={logo}></img>
+            <img alt="logo" src={logo}></img>
             <h1>BeefCake</h1>
             <div className={styles.text_container}>
                 <p>Tired of being big fat ass? </p>

@@ -371,7 +371,7 @@ const AddTraining = () => {
         return(
             <div className={style.diet_container}>
                     <div className={style.logo_container}>
-                    <Link to="/"><img className={style.small_logo} src={logo}></img></Link>
+                    <Link to="/"><img className={style.small_logo} alt="logo" src={logo}></img></Link>
                     <h3>Zaplanuj swój trening</h3>
                  </div>
                 <TrainingForm trainingSubmit={trainingSubmit}/>
@@ -382,7 +382,7 @@ const AddTraining = () => {
 
         <div className={basicStyles.container}>
                 <div className={style.logo_container}>
-                <Link to="/"><img className={style.small_logo} src={logo}></img></Link>
+                <Link to="/"><img className={style.small_logo} alt="logo" src={logo}></img></Link>
             <h3>Zaplanuj swój trening</h3>
             </div>
             <TrainingForm trainingSubmit={trainingSubmit}/>
