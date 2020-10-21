@@ -43,7 +43,7 @@ const AddDiet = () => {
     return (
         <div className={style.diet_container}>
             <div className={style.logo_container}>
-                <Link to="/"><img className={style.small_logo} alt="logo" src={logo}></img></Link>
+                <Link to="/beefCake"><img className={style.small_logo} alt="logo" src={logo}></img></Link>
                 <h3>Zaplanuj swoją dietę</h3>
             </div>
             <DietForm dietData={dietData} gender={setGender} type={setType} lifestyle={setLifestyle} body={setBody}/>
